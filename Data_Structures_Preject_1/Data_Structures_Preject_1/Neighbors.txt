@@ -1,0 +1,81 @@
+Hatay	Osmaniye	Kahramanmaraş	Kayseri	Niğde	Mersin				
+Şanlıurfa	Diyarbakır	Malatya	Kahramanmaraş	Gaziantep					
+Isparta	Konya	Eskişehir	Kütahya	Uşak	Denizli	Burdur			
+Van	Iğdır	Kars	Erzurum	Muş	Bitlis				
+Yozgat	Tokat	Samsun	Çorum						
+Konya	Aksaray	Kırşehir	Kırıkkale	Çankırı	Bolu	Eskişehir	Afyon		
+Mersin	Karaman	Konya	Isparta	Burdur	Muğla				
+Rize	Erzurum	Ardahan							
+Muğla	Denizli	Manisa	İzmir						
+İzmir	Manisa	Kütahya	Bursa	Çanakkale					
+Kütahya	Eskişehir	Bolu	Sakarya	Bursa					
+Diyarbakır	Muş	Erzurum	Erzincan	Tunceli	Elazığ				
+Siirt	Van	Ağrı	Muş	Batman					
+Eskişehir	Ankara	Çankırı	Zonguldak	Düzce	Sakarya	Bilecik			
+Muğla	Antalya	Isparta	Afyon	Denizli					
+Balıkesir	Kütahya	Bilecik	Sakarya	Kocaeli	Yalova				
+Balıkesir	Tekirdağ	Edirne							
+Ankara	Kırıkkale	Çorum	Kastamonu	Zonguldak	Bolu	Karabük			
+Yozgat	Amasya	Samsun	Sinop	Kastamonu	Çankırı	Kırıkkale			
+Muğla	Burdur	Afyon	Uşak	Manisa	Aydın				
+Şanlıurfa	Mardin	Batman	Muş	Bingöl	Elazığ	Malatya	Adıyaman		
+Çanakkale	Tekirdağ	Kırıkkale							
+Diyarbakır	Bingöl	Tunceli	Erzincan	Malatya					
+Elazığ	Tunceli	Bingöl	Erzurum	Bayburt	Gümüşhane	Giresun	Sivas	Malatya	
+Bingöl	Muş	Ağrı	Kars	Ardahan	Artvin	Rize	Trabzon	Bayburt	Erzincan
+Afyon	Konya	Ankara	Bolu	Bilecik	Kütahya				
+Kilis	Şanlıurfa	Adıyaman	Kahramanmaraş	Osmaniye	Hatay				
+Gümüşhane	Trabzon	Erzincan	Sivas	Ordu					
+Erzincan	Bayburt	Trabzon	Giresun						
+Van	Şırnak								
+Kilis	Gaziantep	Osmaniye	Adana						
+Antalya	Konya	Afyon	Burdur						
+Adana	Niğde	Konya	Karaman	Antalya					
+Kocaeli	Tekirdağ	Kırklareli							
+Aydın	Manisa	Balıkesir							
+Ağrı	Iğdır	Ardahan	Erzurum						
+Çorum	Sinop	Çankırı	Bartın	Karabük					
+Adana	Kahramanmaraş	Sivas	Yozgat	Nevşehir	Niğde				
+Edirne	Tekirdağ	İstanbul							
+Nevşehir	Yozgat	Kırıkkale	Ankara	Aksaray					
+Yalova	İstanbul	Bursa	Bilecik	Sakarya					
+Antalya	Karaman	Mersin	Niğde	Aksaray	Ankara	Eskişehir	Afyon	Isparta	
+Manisa	Uşak	Afyon	Eskişehir	Bilecik	Bursa	Balıkesir			
+Kahramanmaraş	Adıyaman	Diyarbakır	Elazığ	Erzincan	Sivas				
+İzmir	Aydın	Denizli	Uşak	Kütahya	Balıkesir				
+Gaziantep	Adıyaman	Malatya	Sivas	Kayseri	Adana	Osmaniye			
+Şanlıurfa	Diyarbakır	Batman	Siirt	Şırnak					
+Antalya	Burdur	Denizli	Aydın						
+Diyarbakır	Batman	Bitlis	Ağrı	Erzurum	Bingöl				
+Niğde	Kayseri	Yozgat	Kırşehir	Aksaray					
+Nevşehir	Kayseri	Adana	Mersin	Konya	Aksaray				
+İzmir	Aydın	Uşak	Denizli	Kütahya	Balıkesir				
+Artvin	Erzurum	Bayburt	Trabzon						
+Düzce	Bolu	Bilecik	Bursa	Kocaeli					
+Ordu	Tokat	Amasya	Çorum	Sinop					
+Van	Bitlis	Batman	Mardin	Şırnak					
+Samsun	Çorum	Kastamonu							
+Kayseri	Kahramanmaraş	Malatya	Erzincan	Giresun	Ordu	Tokat	Yozgat		
+İstanbul	Kırklareli	Edirne	Çanakkale						
+Sivas	Ordu	Samsun	Amasya	Yozgat					
+Rize	Bayburt	Gümüşhane	Giresun						
+Elazığ	Bingöl	Erzincan							
+Gaziantep	Adıyaman	Diyarbakır	Mardin						
+Manisa	Denizli	Afyon	Kütahya						
+Hakkâri	Şırnak	Siirt	Bitlis	Ağrı					
+Kayseri	Sivas	Tokat	Amasya	Çorum	Kırıkkale	Kırşehir	Nevşehir		
+Bartın	Çankırı	Bolu	Düzce	Karabük					
+Niğde	Nevşehir	Kırşehir	Ankara	Konya					
+Erzincan	Erzurum	Rize	Trabzon	Gümüşhane					
+Mersin	Konya	Antalya							
+Kırşehir	Yozgat	Çorum	Çankırı	Ankara					
+Mardin	Siirt	Bitlis	Muş	Diyarbakır					
+Mardin	Siirt	Van	Hakkâri						
+Kastamonu	Zonguldak	Karabük							
+Kars	Erzurum	Artvin							
+Ağrı	Kars								
+Kocaeli	Bursa								
+Zonguldak	Bartın	Kastamonu	Çankırı						
+Gaziantep	Hatay								
+Gaziantep	Kahramanmaraş	Adana	Hatay						
+Zonguldak	Bolu	Sakarya							

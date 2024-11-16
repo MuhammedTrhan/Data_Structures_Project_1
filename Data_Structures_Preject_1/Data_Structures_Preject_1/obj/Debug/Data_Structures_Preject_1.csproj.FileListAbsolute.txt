@@ -1,0 +1,9 @@
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\bin\Debug\Distances.txt
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\bin\Debug\Data_Structures_Preject_1.exe.config
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\bin\Debug\Data_Structures_Preject_1.exe
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\bin\Debug\Data_Structures_Preject_1.pdb
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\obj\Debug\Data_Structures_Preject_1.csproj.AssemblyReference.cache
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\obj\Debug\Data_Structures_Preject_1.csproj.CoreCompileInputs.cache
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\obj\Debug\Data_Structures_Preject_1.exe
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\obj\Debug\Data_Structures_Preject_1.pdb
+C:\Users\mami4\Desktop\dersler\Data_Structures\Data_Structures_Preject_1\Data_Structures_Preject_1\bin\Debug\Neighbors.txt
